@@ -1,0 +1,20 @@
+{
+  "name": "proyecto_curso_asincronismo",
+  "version": "1.0.0",
+  "description": "Este un proyecto del curso de asincronismo de platzi del año 2022. La intención de este proyecto es consumir una api usando los metodos aprendidos de Async and Await.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jclosadab1996/proyecto_Curso_asincronismo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jclosadab1996/proyecto_Curso_asincronismo/issues"
+  },
+  "homepage": "https://github.com/jclosadab1996/proyecto_Curso_asincronismo#readme"
+}
